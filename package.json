@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robsongade/quick-start-json-alias.git"
+    "url": "git+https://github.com/robsongade/json-alias.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/robsongade/quick-start-json-alias/issues"
+    "url": "https://github.com/robsongade/json-alias/issues"
   },
   "bin": {
     "quick-start-json-alias": "dist/index.js"
   },
-  "homepage": "https://github.com/robsongade/quick-start-json-alias#readme",
+  "homepage": "https://github.com/robsongade/json-alias#readme",
   "devDependencies": {
     "@types/node": "^15.12.2"
   }
