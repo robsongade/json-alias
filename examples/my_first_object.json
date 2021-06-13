@@ -1,0 +1,14 @@
+{
+    "my_first_object" :  {
+        "contacts" : [
+            {
+                "name" : "Robson Gomes",
+                "web_site" : "https://robsongomes.com.br",
+                "cellphone" : "+5527981470133",
+                "social" : {
+                    "linkedin" : "https://www.linkedin.com/in/robson-gomesj/"
+                }
+            }
+        ]
+    }
+}

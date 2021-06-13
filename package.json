@@ -1,0 +1,30 @@
+{
+  "name": "quick-start-json-alias",
+  "version": "1.0.8",
+  "description": "Esse repositório foi feito para auxiliar o desenvolvedor na hora de consumir um objeto json, criando o template final",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    
+    "build:run": "tsc && node ./dist/usage.js",
+    "start": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsongade/quick-start-json-alias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsongade/quick-start-json-alias/issues"
+  },
+  "bin": {
+    "quick-start-json-alias": "dist/index.js"
+  },
+  "homepage": "https://github.com/robsongade/quick-start-json-alias#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.2"
+  }
+}
