@@ -1,9 +1,9 @@
-# quick-start-json-alias
+# json-alias
 This repository was made to help the developer when consuming a json object, creating the final template
 
 # Example of use
 ```code
-import { json_alias } from 'quick-start-json-alias'
+import { json_alias } from 'json-alias'
 const { alias_result } = json_alias({
   alias: {
     contacts: "my_first_object.contacts"
