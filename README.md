@@ -1,5 +1,5 @@
 # quick-start-json-alias
- Esse repositório foi feito para auxiliar o desenvolvedor na hora de consumir um objeto json, criando o template final
+This repository was made to help the developer when consuming a json object, creating the final template
 
 # Example of use
 ```code
