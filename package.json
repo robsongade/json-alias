@@ -1,6 +1,6 @@
 {
   "name": "json-alias",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Esse repositório foi feito para auxiliar o desenvolvedor na hora de consumir um objeto json, criando o template final",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
